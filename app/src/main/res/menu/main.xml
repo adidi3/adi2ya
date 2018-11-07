@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/credse"
+        android:orderInCategory="10"
+        android:title="creds">
+
+    </item>
+
+    <item
+        android:id="@+id/bac"
+        android:orderInCategory="20"
+        android:title="back">
+
+    </item>
+</menu>
