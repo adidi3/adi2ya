@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
                     }
             }
         });
+        
         ad.setNeutralButton("cancel", new DialogInterface.OnClickListener(){
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
